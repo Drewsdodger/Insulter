@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.example-text {
+  font-size: 48px;
+  color: white;
+  background-color: black;
+}
